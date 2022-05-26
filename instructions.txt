@@ -1,0 +1,2 @@
+This code only requires entering the path of the files to be used, 
+the execution of the algorithm is done automatically.
